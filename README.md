@@ -9,5 +9,15 @@ will shape and dominate the future.
 - AI in education
 - AI in government
 - AI in creative industries
+- AI in blockchain
+
+## Repository Structure
+predictions/
+├── workforce.md
+├── healthcare.md
+├── education.md
+├── government.md
+├── creativity.md
+└── blockchain.md
 
 > "The future belongs to those who learn to work alongside AI."
